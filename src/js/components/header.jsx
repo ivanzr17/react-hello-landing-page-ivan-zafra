@@ -18,17 +18,17 @@ export class Header extends Component {
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link text-muted">
+            <a href="#" class="nav-link text-light">
               About
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link text-muted">
+            <a href="#" class="nav-link text-light">
               Services
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link text-muted">
+            <a href="#" class="nav-link text-light">
               Contact
             </a>
           </li>
